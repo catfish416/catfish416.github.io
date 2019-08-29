@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://myownblog.github.io/"/>
-  <updated>2019-08-28T08:50:52.201Z</updated>
+  <updated>2019-08-29T11:09:10.161Z</updated>
   <id>http://myownblog.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test for first article</title>
+    <link href="http://myownblog.github.io/2019/08/29/test-for-first-article/"/>
+    <id>http://myownblog.github.io/2019/08/29/test-for-first-article/</id>
+    <published>2019-08-29T11:07:47.000Z</published>
+    <updated>2019-08-29T11:09:10.161Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;这是第一篇文章，测试一下效果&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>article title</title>
